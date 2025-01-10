@@ -3,3 +3,5 @@ def print_number(num) :
 
 for _ in range(1) :
     print_number('88995553535')
+
+    #исправил
