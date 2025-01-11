@@ -1,7 +1,16 @@
 def print_number(num) :
-    print(num)
+    print(num, end="") #выводим число без перехода на новую строку
 
-for _ in range(1) :
-    print_number('88995553535')
+# вызовы функции для формирования номера 88005553535
 
-    #исправил
+print_number (8)
+print_number (8)
+print_number (0)
+print_number (0)
+print_number (5)
+print_number (5)
+print_number (5)
+print_number (3)
+print_number (5)
+print_number (3)
+print_number (5)
