@@ -1,8 +1,0 @@
-# 04_lesson/defects.txt
-
-Defect Report for StringUtils Class
-
-1. Method `capitilize` is misspelled; should be `capitalize`.
-2. Method `delete_symbol` uses a method `contains` which is not defined in the class.
-3. Method `to_list` does not handle cases where the delimiter is not found correctly.
-4. Method `list_to_string` does not handle non-string types in the list.
