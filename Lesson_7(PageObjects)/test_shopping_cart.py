@@ -44,7 +44,3 @@ def test_shopping_cart():
 
     # Проверяем, что итоговая сумма равна $58.29
     assert total == "Total: $58.29"
-
-# Запуск теста
-if __name__ == "__main__":
-    test_shopping_cart()
